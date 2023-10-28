@@ -107,7 +107,7 @@
 		"hurryCostModifier": 1,
 		"maintenance": 0,
 		"requiredBuilding": "UnitModifier",
-		"uniques": ["[+25]% Strength <for [Wounded] units>","[+15]% Strength <vs [Wounded] units>","[+10]% to Flank Attack bonuses"]
+		"uniques": ["[+250]% Strength <for [Wounded] units>","[+150]% Strength <vs [Wounded] units>","[+100]% to Flank Attack bonuses"]
 	},	
 	{
 		"name": "ResourceModifier:1",
