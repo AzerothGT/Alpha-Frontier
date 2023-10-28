@@ -3,6 +3,15 @@
 	// list of additional units TBD:
 	// none, yay!
 
+	{
+		"name": "Activation",
+		"unitType": "Civilian",
+		"uniques":[
+            "[1] Free Technologies <by consuming this unit>",
+"Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
+
 	////////////////////
 	// Xeno Units
 	////////////////////
